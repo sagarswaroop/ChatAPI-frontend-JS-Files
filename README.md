@@ -1,7 +1,7 @@
 # ChatAPI-frontend-JS-Files
 
-These JS files can be used with my Chat API Link given below - 
-  https://github.com/sagarswaroop/Chat-API
+These JS files can be used with my Chat API Link is given below - 
+ - https://github.com/sagarswaroop/Chat-API
  
 Steps for integrate these files with existing project:
   - copy this folder in script folder.
